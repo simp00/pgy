@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 需要安装的ipa包在服务器的路径 -->
-					<string>https://gitee.com/simp00/pgy/blob/master/ipa/pgy.ipa</string>
+					<string>https://github.com/simp00/pgy/blob/master/pgy.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
