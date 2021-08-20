@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 需要安装的ipa包在服务器的路径 -->
-					<string>https://github.com/simp00/pgy/blob/master/pgy.ipa</string>
+					<string>https://vkceyugu.cdn.bspapp.com/VKCEYUGU-031289c4-a679-4174-a4f3-6b4aaffd894e/2b299f81-c382-4e2d-9f63-cef9172de532.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -21,7 +21,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 安装时需要显示的大图标（1024*1024）在服务器的路径 -->
-					<string>https://www.example.cn/ipa/mytest/icon_full_size_s.png</string>
+					<string>http://pic.pgytongmo.top/appIcon180x180.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,14 +35,14 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.mcrazy.Mytest</string>
-				<key>bundle-version</key>
-				<string>1.1.4</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>测试客户端</string>
+				 <key>bundle-identifier</key>
+                <string>top.pgytongmo</string>
+                <key>bundle-version</key>
+                <string>1.4.7</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>蒲公英童模</string>
 			</dict>
 		</dict>
 	</array>
